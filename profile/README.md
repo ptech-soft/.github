@@ -4,12 +4,13 @@
 
 [![Website](https://img.shields.io/badge/Website-ptechsoft.vn-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ptechsoft.vn)
 [![Email](https://img.shields.io/badge/Email-phuong%40ptechsoft.vn-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuong@ptechsoft.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phuong%20Luong-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-luong-ab602820a/)
 [![GitHub](https://img.shields.io/badge/GitHub-ptech--soft-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptech-soft)
 
 ---
 
 ### 🌐 About Us
-**PTech Soft** is a high-impact technology startup focused on building scalable cloud systems, intelligent AI applications, and robust B2B platforms. We specialize in transforming complex business workflows into seamless digital experiences.
+**PTech Soft** is a technology startup founded in **October 2025**, focused on building scalable cloud systems, intelligent AI applications, and robust B2B platforms. We specialize in transforming complex business workflows into seamless digital experiences.
 
 ---
 
@@ -31,4 +32,5 @@
 ### 📬 Connect With Us
 - 🌐 **Website**: [ptechsoft.vn](https://ptechsoft.vn)
 - 📧 **Inquiries**: [phuong@ptechsoft.vn](mailto:phuong@ptechsoft.vn)
+- 💼 **Founder**: [Phuong Luong (LinkedIn)](https://www.linkedin.com/in/phuong-luong-ab602820a/)
 - 📍 **Headquarters**: Vietnam
